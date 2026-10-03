@@ -1,5 +1,6 @@
 # learning-github
-this is my first git repo
+this is my first GitHub repo, made while learning
 <br>
 author_ nitin pawal
+practice repo by teammate A
 my git hub practice repo
