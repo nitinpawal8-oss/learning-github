@@ -1,2 +1,3 @@
 # learning-github
-rhis is my first git repos
+this is my first git repos
+auther_ nitin pawal
