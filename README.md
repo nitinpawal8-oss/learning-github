@@ -1,4 +1,4 @@
 # learning-github
-this is my first git repos
+this is my first git repo
 <br>
-auther_ nitin pawal
+author_ nitin pawal
